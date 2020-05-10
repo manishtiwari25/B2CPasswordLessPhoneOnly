@@ -21,6 +21,8 @@
 ![Screen1](https://raw.githubusercontent.com/manishtiwari25/B2CPasswordLessPhoneOnly/master/screen1.png)
 ![Screen1](https://raw.githubusercontent.com/manishtiwari25/B2CPasswordLessPhoneOnly/master/screen2.png)
 
+#### Query String Parameters <br>
+while running the policies add phone_number=121212&country_code=IN, it will automatically populate the values for you. 
 
 #### For More Information visit <br>
 https://docs.microsoft.com/en-us/azure/active-directory-b2c/custom-policy-get-started
